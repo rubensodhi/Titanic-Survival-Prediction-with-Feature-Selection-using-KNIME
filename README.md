@@ -38,7 +38,9 @@ The data was first joined then partitioned:
 
 - **Feature Engineering**:
   - `FamilySize`: Combined `SibSp` and `Parch`, with log transformation applied.
+  
   ![image](https://github.com/user-attachments/assets/9be310c7-eac3-44e6-b5d4-d79aed159879)
+
   ![image](https://github.com/user-attachments/assets/7d211cb8-a32e-4297-8167-a03696629b58)
 
   - Categorical variables encoded using one-hot encoding.
