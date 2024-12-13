@@ -45,6 +45,7 @@ The data was first joined then partitioned:
 
   - Categorical variables encoded using one-hot encoding.
   - `Age` grouped into categories (e.g., Child, Adult).
+  
   ![image](https://github.com/user-attachments/assets/7147e380-59f1-401e-8992-a35b2627f1fd)
 
 
