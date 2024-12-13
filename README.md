@@ -17,6 +17,7 @@ The objective is to predict the binary outcome: **`Survived`** (1 for survived, 
 
 ## Key Steps
 The data was first joined then partitioned:
+
 ![image](https://github.com/user-attachments/assets/e8c7e488-9bf8-4e3c-b47a-c0e42ff78de2)
 
 
