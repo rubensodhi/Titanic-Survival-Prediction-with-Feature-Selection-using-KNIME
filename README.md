@@ -32,8 +32,6 @@ The data was first joined then partitioned:
 
 - **Outlier Removal**: Identified and addressed using KNIME's Numeric Outlier Node.
 
-![image](https://github.com/user-attachments/assets/c687c5d0-2dd9-47c1-b9ce-08add17c78ae)
-
 - **Normalization**: Min-Max scaling applied to continuous variables.
 
 - **Feature Engineering**:
