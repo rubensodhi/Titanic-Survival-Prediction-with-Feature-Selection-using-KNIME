@@ -102,4 +102,4 @@ The data was first joined then partitioned:
 
 ---
 
-This README provides a high-level summary of the project. For detailed documentation, please refer to the complete report.
+This README provides a high-level summary of the project. 
